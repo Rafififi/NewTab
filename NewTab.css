@@ -1,0 +1,15 @@
+.link-container {
+  position: relative;
+  left: 33.33%;
+  top: 300px;
+  margin-bottom: 20px;
+}
+
+body {
+  background-color: #3a3b3c;
+}
+
+a:link, a:visited {
+  color: #889af3;
+  /* Change this to the color you want for your links */
+}
